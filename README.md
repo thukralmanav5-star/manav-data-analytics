@@ -1,47 +1,73 @@
-# Olist E-commerce Data Analysis (SQL)
+My Data Analytics portfolio featuring SQL, Python, Excel and Power BI projects Project 01: Sales Performance Analysis
 
-## Project Overview
-This project analyses the Olist Brazilian E-Commerce Public Dataset using Microsoft SQL Server and SSMS. It explores orders, customers, payments, products, sellers, delivery performance, and customer reviews.
+An Excel-based analysis of the Sample Superstore dataset (2014–2017), focused on sales performance, profitability, regional trends and customer behaviour.
 
-This is an SQL-focused portfolio project. No Power BI dashboard is included.
+Dashboard Preview
 
-## Dataset
-Source: [Olist Brazilian E-Commerce Dataset — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+Key Performance Indicators
 
-The dataset contains anonymised Brazilian e-commerce marketplace data. Currency: Brazilian Real (BRL).
+KPI
 
-## Tools
-- Microsoft SQL Server
-- SQL Server Management Studio (SSMS)
-- SQL
+Result
 
-## Project Structure
-- SQL: 30 SQL analysis queries
-- Business-Insights: Business findings and recommendations
-- README.md: Project documentation
+Total Sales
 
-## Analysis Areas
-1. Database exploration and validation
-2. Customer behaviour and repeat purchases
-3. Revenue and monthly performance
-4. Order and delivery analysis
-5. Payment method analysis
-6. Product and seller performance
-7. Customer review analysis
-8. Business KPI reporting
+$2,297,200.86
 
-## SQL Concepts
-SELECT, WHERE, GROUP BY, HAVING, JOIN, CASE WHEN, subqueries, CTEs, RANK, ROW_NUMBER, LAG, running totals, and date functions.
+Total Profit
 
-## How to Reproduce
-1. Download the dataset from Kaggle.
-2. Import the CSV files into SQL Server.
-3. Use the database Olist_Ecommerce_Analysis.
-4. Open the SQL script in SSMS.
-5. Execute the queries.
+$286,397.02
 
-## Author
-Manav
+Total Orders
 
-## Disclaimer
-This project is for learning and portfolio demonstration purposes.
+5,009
+
+Profit Margin
+
+12.47%
+
+Tools & Skills
+
+Microsoft Excel 2021
+
+Data cleaning and validation
+
+Excel Tables and formulas
+
+PivotTables and PivotCharts
+
+Interactive slicers
+
+KPI reporting and dashboard design
+
+Analysis Performed
+
+Yearly sales and profit trends
+
+Regional performance
+
+Category and sub-category profitability
+
+Discount analysis
+
+Top 10 customers by sales
+
+Key Findings
+
+2017 recorded the highest yearly sales.
+
+The West region generated the highest sales and profit.
+
+Technology had the highest category sales and profit.
+
+Tables, Bookcases and Supplies recorded negative overall profit.
+
+Repository Contents
+
+Dataset/ — Sample Superstore source dataset
+
+Excel/ — Completed Excel analysis workbook
+
+Dashboard/ — Dashboard screenshot
+
+More analytics projects will be added as I build my portfolio.
