@@ -1,0 +1,10 @@
+-- Database Schema Exploration
+
+USE Olist_Ecommerce_Analysis;
+
+SELECT
+    TABLE_NAME,
+    COLUMN_NAME,
+    DATA_TYPE
+FROM INFORMATION_SCHEMA.COLUMNS
+ORDER BY TABLE_NAME, ORDINAL_POSITION;
